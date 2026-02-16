@@ -1,6 +1,11 @@
+<div align="center">
+
 # Calculator
-Calculator in JS , HTML and CSS
 
-click here https://karankaran00.github.io/Calculator/
+Calculator in JS, HTML and CSS
 
-<img src="Screenshot (172).png" >
+[Live Demo](https://karankaran00.github.io/Calculator/)
+
+<img src="Screenshot (172).png" width="400">
+
+</div>
